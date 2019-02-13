@@ -79,6 +79,16 @@
 .sticky_1 {
   text-align:left;
 }
+.paragraph1 {
+  text-align:left;
+}
+.heading_11 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
 .shape {
 }
 ._60号字_如金额展示、金额输入） {
@@ -132,6 +142,13 @@
 }
 .image1 {
   color:#000000;
+}
+.iconfont {
+  font-family:'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
 }
 .box_2 {
 }
